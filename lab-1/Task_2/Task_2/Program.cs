@@ -9,12 +9,19 @@ namespace Task_2
     {
         static void Main(string[] args)
         {
-            int d, m;
-            
-            Console.Write("Enter d: ");
-            d = int.Parse(ReadLine());
-            Console.Write("Enter m: ");
-            m = int.Parse(ReadLine());
+            int d = 0, m = 0;
+            try
+            {
+                Console.Write("Enter d: ");
+                d = int.Parse(ReadLine());
+                Console.Write("Enter m: ");
+                m = int.Parse(ReadLine());
+            }
+            catch (Exception e) 
+            {
+                WriteLine("Incorrect data input format");
+                return;
+            }
 
             int[] days_in_month = new int[12] { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
             string[] day_of_week = new string[7] { "Понедiлок", "Вiвторок", "Середа", "Четвер", "П’ятниця", "Субота ", "Недiля" };

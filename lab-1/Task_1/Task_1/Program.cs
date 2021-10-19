@@ -9,16 +9,24 @@ namespace Task_1
     {
         static void Main(string[] args)
         {
-            double x, y, z;
+            double x = 0, y = 0, z = 0;
+            try
+            {
+                Write("x = ");
+                x = double.Parse(ReadLine());
 
-            Write("x = ");
-            x = double.Parse(ReadLine());
+                Write("y = ");
+                y = double.Parse(ReadLine());
 
-            Write("y = ");
-            y = double.Parse(ReadLine());
-
-            Write("z = ");
-            z = double.Parse(ReadLine());
+                Write("z = ");
+                z = double.Parse(ReadLine());
+            }
+            catch (Exception e) 
+            {
+                WriteLine("Incorrect data input format");
+                return;
+            }
+            
 
 
             if (z == 0)

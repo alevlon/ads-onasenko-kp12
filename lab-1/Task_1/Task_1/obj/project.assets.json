@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KPI\\Лекции\\Алгоритмы\\Практика\\Лаба#1\\Task_1\\Task_1\\Task_1.csproj",
+      "projectUniqueName": "D:\\KPI\\Лекции\\Алгоритмы\\Практика\\ads-onasenko-kp12\\lab-1\\Task_1\\Task_1\\Task_1.csproj",
       "projectName": "Task_1",
-      "projectPath": "D:\\KPI\\Лекции\\Алгоритмы\\Практика\\Лаба#1\\Task_1\\Task_1\\Task_1.csproj",
+      "projectPath": "D:\\KPI\\Лекции\\Алгоритмы\\Практика\\ads-onasenko-kp12\\lab-1\\Task_1\\Task_1\\Task_1.csproj",
       "packagesPath": "C:\\Users\\askal\\.nuget\\packages\\",
-      "outputPath": "D:\\KPI\\Лекции\\Алгоритмы\\Практика\\Лаба#1\\Task_1\\Task_1\\obj\\",
+      "outputPath": "D:\\KPI\\Лекции\\Алгоритмы\\Практика\\ads-onasenko-kp12\\lab-1\\Task_1\\Task_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\askal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,12 +55,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.20, 3.1.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

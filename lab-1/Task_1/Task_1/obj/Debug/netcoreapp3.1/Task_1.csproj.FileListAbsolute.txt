@@ -11,3 +11,17 @@ D:\KPI\Лекции\Алгоритмы\Практика\Лаба#1\Task_1\Task_1
 D:\KPI\Лекции\Алгоритмы\Практика\Лаба#1\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.dll
 D:\KPI\Лекции\Алгоритмы\Практика\Лаба#1\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.pdb
 D:\KPI\Лекции\Алгоритмы\Практика\Лаба#1\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.genruntimeconfig.cache
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.exe
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.deps.json
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.runtimeconfig.json
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.runtimeconfig.dev.json
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.dll
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.pdb
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.csproj.AssemblyReference.cache
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.AssemblyInfoInputs.cache
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.AssemblyInfo.cs
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.csproj.CoreCompileInputs.cache
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.dll
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.pdb
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-1\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.genruntimeconfig.cache
