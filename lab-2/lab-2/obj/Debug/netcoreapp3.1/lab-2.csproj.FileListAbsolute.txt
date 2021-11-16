@@ -1,0 +1,13 @@
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\bin\Debug\netcoreapp3.1\lab-2.exe
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\bin\Debug\netcoreapp3.1\lab-2.deps.json
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\bin\Debug\netcoreapp3.1\lab-2.runtimeconfig.json
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\bin\Debug\netcoreapp3.1\lab-2.runtimeconfig.dev.json
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\bin\Debug\netcoreapp3.1\lab-2.dll
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\bin\Debug\netcoreapp3.1\lab-2.pdb
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\obj\Debug\netcoreapp3.1\lab-2.csproj.AssemblyReference.cache
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\obj\Debug\netcoreapp3.1\lab-2.AssemblyInfoInputs.cache
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\obj\Debug\netcoreapp3.1\lab-2.AssemblyInfo.cs
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\obj\Debug\netcoreapp3.1\lab-2.csproj.CoreCompileInputs.cache
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\obj\Debug\netcoreapp3.1\lab-2.dll
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\obj\Debug\netcoreapp3.1\lab-2.pdb
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-2\lab-2\obj\Debug\netcoreapp3.1\lab-2.genruntimeconfig.cache
