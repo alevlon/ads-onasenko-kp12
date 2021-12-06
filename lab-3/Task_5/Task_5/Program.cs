@@ -18,7 +18,7 @@ namespace Task_5
                 if (n < 0) throw new Exception("Input string was not in a correct format.");
 
             }
-            catch (Exception e) 
+            catch (Exception e)
             {
                 WriteLine($"{e.Message}");
                 return;
@@ -26,13 +26,13 @@ namespace Task_5
 
             int[] arr = new int[n];
             Random rdn = new Random();
-            for (i = 0; i < n; i++) arr[i] = rdn.Next(-1000, 100);
+            for (i = 0; i < n; i++) arr[i] = rdn.Next(-100, 30);
 
 
             List<int> mass_for_sort = new List<int>();
-            for (i = 0; i < n; i++) 
+            for (i = 0; i < n; i++)
             {
-                if (arr[i] < 0 && arr[i]%2 == 0) mass_for_sort.Add(Abs(arr[i]));
+                if (arr[i] < 0 && arr[i] % 2 == 0) mass_for_sort.Add(Abs(arr[i]));
             }
 
 
@@ -43,30 +43,30 @@ namespace Task_5
                 {
                     int current = mass_for_sort[i];
                     j = i;
-                    while ((j >= d) && (mass_for_sort[j - d] > current)) 
+                    while ((j >= d) && (mass_for_sort[j - d] > current))
                     {
                         int t = mass_for_sort[j];
                         mass_for_sort[j] = mass_for_sort[j - d];
                         mass_for_sort[j - d] = t;
 
                         j = j - d;
-                    }   
+                    }
                 }
-                
+
                 d = d / 2;
             }
             for (i = 0; i < mass_for_sort.Count; i++) mass_for_sort[i] *= -1;
 
 
 
-            WriteLine("=================== The unsorted array is  ===================");
-            for (i = 0; i < n; i++) 
+            WriteLine("\n=================== The unsorted array is  ===================\n");
+            for (i = 0; i < n; i++)
             {
                 if (arr[i] < 0 && arr[i] % 2 == 0)
                 {
                     Write(" " + arr[i] + " ");
                 }
-                else 
+                else
                 {
                     Write(" ");
                     Console.BackgroundColor = ConsoleColor.Green;
@@ -79,7 +79,7 @@ namespace Task_5
             WriteLine();
 
             int x = 0;
-            WriteLine("=================== The sorted array is  ===================");
+            WriteLine("\n=================== The sorted array is  ===================\n");
             for (i = 0; i < n; i++)
             {
                 if (arr[i] < 0 && arr[i] % 2 == 0)
