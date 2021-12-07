@@ -75,6 +75,8 @@ namespace Task_5
                     Console.ResetColor();
                     Write(" ");
                 }
+
+                if ((i + 1) % 15 == 0) WriteLine();
             }
             WriteLine();
 
@@ -96,6 +98,8 @@ namespace Task_5
                     Console.ResetColor();
                     Write(" ");
                 }
+
+                if ((i + 1) % 15 == 0) WriteLine();
             }
             WriteLine();
 

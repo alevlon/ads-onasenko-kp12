@@ -11,3 +11,4 @@ D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-3\
 D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-3\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.dll
 D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-3\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.pdb
 D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-3\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.genruntimeconfig.cache
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-3\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.GeneratedMSBuildEditorConfig.editorconfig

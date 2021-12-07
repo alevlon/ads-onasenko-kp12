@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XSNxPHiwZ1F/w9w+/tMJ9GfOroAtL8YMQl/Q1SWIpLbV8aokSh/ZIedkyGCj6LbTTIm4DayMP1Uis4aXnxiEvw==",
+  "dgSpecHash": "/BbyRdvSK/sKWaTXyrAAhAbLGabDaeia+53Ybilj5KWPs5W5tsp23w9j+eSHDQKtsch/T1skgrkeK+WIWxxDgg==",
   "success": true,
   "projectFilePath": "D:\\KPI\\Лекции\\Алгоритмы\\Практика\\ads-onasenko-kp12\\lab-3\\Task_5\\Task_5\\Task_5.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\askal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
   "logs": []
 }
