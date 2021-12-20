@@ -176,6 +176,7 @@ namespace Task_26
             {
                 Node new_node = new Node(data.ToString(), head.next);
                 head.next = new_node;
+                Count++;
             }
         }
 
