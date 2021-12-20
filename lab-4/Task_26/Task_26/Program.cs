@@ -222,6 +222,7 @@ namespace Task_26
                 return;
             }
 
+
             bool work = true;
             Console.Clear();
             while (work) 
@@ -247,7 +248,7 @@ namespace Task_26
                         WriteLine("/DeleteFirst - 4");
                         WriteLine("/DeleteLast - 5");
                         WriteLine("/DeleteAtPosition - 6");
-                        WriteLine("/AddByVariant - 7\n");
+                        WriteLine("/AddByVariant - 7\n");   
 
                         Write("Choose the command: ");
                         int command = int.Parse(ReadLine());
