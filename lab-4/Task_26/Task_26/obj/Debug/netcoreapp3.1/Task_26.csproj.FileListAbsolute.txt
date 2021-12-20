@@ -1,0 +1,13 @@
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\bin\Debug\netcoreapp3.1\Task_26.exe
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\bin\Debug\netcoreapp3.1\Task_26.deps.json
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\bin\Debug\netcoreapp3.1\Task_26.runtimeconfig.json
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\bin\Debug\netcoreapp3.1\Task_26.runtimeconfig.dev.json
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\bin\Debug\netcoreapp3.1\Task_26.dll
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\bin\Debug\netcoreapp3.1\Task_26.pdb
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\obj\Debug\netcoreapp3.1\Task_26.csproj.AssemblyReference.cache
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\obj\Debug\netcoreapp3.1\Task_26.AssemblyInfoInputs.cache
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\obj\Debug\netcoreapp3.1\Task_26.AssemblyInfo.cs
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\obj\Debug\netcoreapp3.1\Task_26.csproj.CoreCompileInputs.cache
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\obj\Debug\netcoreapp3.1\Task_26.dll
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\obj\Debug\netcoreapp3.1\Task_26.pdb
+D:\KPI\Лекции\Алгоритмы\Практика\ads-onasenko-kp12\lab-4\Task_26\Task_26\obj\Debug\netcoreapp3.1\Task_26.genruntimeconfig.cache
