@@ -1,0 +1,14 @@
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\bin\Debug\netcoreapp3.1\Task_15.exe
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\bin\Debug\netcoreapp3.1\Task_15.deps.json
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\bin\Debug\netcoreapp3.1\Task_15.runtimeconfig.json
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\bin\Debug\netcoreapp3.1\Task_15.runtimeconfig.dev.json
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\bin\Debug\netcoreapp3.1\Task_15.dll
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\bin\Debug\netcoreapp3.1\Task_15.pdb
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\obj\Debug\netcoreapp3.1\Task_15.csproj.AssemblyReference.cache
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\obj\Debug\netcoreapp3.1\Task_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\obj\Debug\netcoreapp3.1\Task_15.AssemblyInfoInputs.cache
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\obj\Debug\netcoreapp3.1\Task_15.AssemblyInfo.cs
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\obj\Debug\netcoreapp3.1\Task_15.csproj.CoreCompileInputs.cache
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\obj\Debug\netcoreapp3.1\Task_15.dll
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\obj\Debug\netcoreapp3.1\Task_15.pdb
+D:\KPI\Лекции\Алгоритмы\Практика\lab-5\Task_15\Task_15\obj\Debug\netcoreapp3.1\Task_15.genruntimeconfig.cache
