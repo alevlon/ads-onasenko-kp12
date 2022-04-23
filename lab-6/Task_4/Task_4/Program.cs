@@ -142,9 +142,9 @@ namespace Task_26
 
                             else if (checkSpecSymbol(a[i]))
                             {
-                                if (Prior(a[i].ToString()) <= Prior(stack.Peek()) && a[i] != '(')
+                                if (Prior(a[i].ToString()) <= Prior(stack.Peek()))
                                 {
-                                    while (stack.Peek() != "(" && stack.IsEmpty() == false)
+                                    while (stack.Peek() != "(" && !stack.IsEmpty())
                                     {
                                         string c = stack.Pop();
                                         result += c;
@@ -243,7 +243,7 @@ namespace Task_26
                     return 2;
 
                 case "(":
-                    return 1;
+                    return 4;
             }
             return 0;
         }
