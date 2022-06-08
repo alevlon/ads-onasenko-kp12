@@ -75,7 +75,7 @@ namespace Task_11
                     string InputDate = ReadLine();
                     if (!ValidateCommand(InputDate, "InputDate"))
                     { 
-                        ContinueUse();
+                        ContinueUse(); 
                         continue;
                     }
                     string[] args = InputDate.Split('.');
