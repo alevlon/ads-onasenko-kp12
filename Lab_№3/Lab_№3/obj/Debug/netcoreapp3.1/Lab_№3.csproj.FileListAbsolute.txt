@@ -1,0 +1,14 @@
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\bin\Debug\netcoreapp3.1\Lab_№3.exe
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\bin\Debug\netcoreapp3.1\Lab_№3.deps.json
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\bin\Debug\netcoreapp3.1\Lab_№3.runtimeconfig.json
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\bin\Debug\netcoreapp3.1\Lab_№3.runtimeconfig.dev.json
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\bin\Debug\netcoreapp3.1\Lab_№3.dll
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\bin\Debug\netcoreapp3.1\Lab_№3.pdb
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\obj\Debug\netcoreapp3.1\Lab_№3.csproj.AssemblyReference.cache
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\obj\Debug\netcoreapp3.1\Lab_№3.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\obj\Debug\netcoreapp3.1\Lab_№3.AssemblyInfoInputs.cache
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\obj\Debug\netcoreapp3.1\Lab_№3.AssemblyInfo.cs
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\obj\Debug\netcoreapp3.1\Lab_№3.csproj.CoreCompileInputs.cache
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\obj\Debug\netcoreapp3.1\Lab_№3.dll
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\obj\Debug\netcoreapp3.1\Lab_№3.pdb
+D:\KPI\Лекции\Дискретка\2 семестр\3 лаба\Lab_№3\Lab_№3\obj\Debug\netcoreapp3.1\Lab_№3.genruntimeconfig.cache
